@@ -26,6 +26,6 @@
     - [ ] getTaskById
     - [ ] updateTask
     - [ ] deleteTask
-  - [ ] deploy on any cloud
-    - [ ] add all env variables while deploying
-    - [ ] update cors link
+  - [x] deploy on any cloud
+    - [x] add all env variables while deploying
+    - [x] update cors link
