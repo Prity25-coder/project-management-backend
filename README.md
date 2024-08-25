@@ -1,0 +1,31 @@
+# Project management Backend
+
+## All Task
+- [x] Configure server
+  - [x] Configure env
+  - [x] configure firebase-admin
+  - [x] configure global error handler and not found route middleware
+  - [x] Add generic status code and title
+  - [x] add auth route
+    - [x] signup
+      - [x] create user
+      - [x] create jwt-token
+    - [ ] update-user
+    - [ ] delete-user
+  - [x] Add isLoggedIn middleware using firebase-admin
+    - [x] Authorization 
+  - [x] add Project route
+    - [x] addProject
+    - [x] getProjects
+    - [x] getProductById
+    - [x] updateProject
+    - [x] deleteProject
+  - [ ] Add Task route
+    - [ ] addTask
+    - [ ] getTask
+    - [ ] getTaskById
+    - [ ] updateTask
+    - [ ] deleteTask
+  - [ ] deploy on any cloud
+    - [ ] add all env variables while deploying
+    - [ ] update cors link

@@ -1,0 +1,9 @@
+tasks collection
+
+one document
+task = {
+  projectId: string,
+  createdBy: string, // ?
+  task: string,
+  completed: boolean  // false/true
+}
