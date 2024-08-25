@@ -5,7 +5,7 @@ import RESPONSE_CODE from "../constants/responseCode.js";
 const whitelist = [
   "http://localhost:4200",
   "http://localhost:5174",
-  "https://project-management-frontend-lake.vercel.app/",
+  "https://project-management-frontend-lake.vercel.app",
 ];
 
 const corsOptions = {
